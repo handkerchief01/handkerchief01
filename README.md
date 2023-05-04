@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **(n){ if(n==0) return 1 else return n*fact(n-1)}**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
