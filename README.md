@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **nothing**
 
-- ⚡ Fun fact **(n){ if(n==0) return 1 else return n*fact(n-1)}**
+- ⚡ Fun fact **(n, fact){ if(n==0) return 1 elseif(n==1) return fact else return fact(n-1, n*fact)}**
 
 
 <p align="left">
